@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/U7T_GUSTAVO.uf2'
+elf = 'build/U7T_GUSTAVO.elf'
